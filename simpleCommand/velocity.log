@@ -1,0 +1,31 @@
+Mon Jul 06 00:06:24 BST 2009  [debug] AvalonLogChute initialized using file 'velocity.log'
+Mon Jul 06 00:06:24 BST 2009  [debug] Velocity was not initialized! Calling init()...
+Mon Jul 06 00:06:24 BST 2009  [trace] *******************************************************************
+Mon Jul 06 00:06:24 BST 2009  [debug] Starting Apache Velocity v1.5 (compiled: 2007-02-22 08:52:29)
+Mon Jul 06 00:06:24 BST 2009  [trace] RuntimeInstance initializing.
+Mon Jul 06 00:06:24 BST 2009  [debug] Default Properties File: org/apache/velocity/runtime/defaults/velocity.properties
+Mon Jul 06 00:06:24 BST 2009  [debug] Trying to use logger class org.apache.velocity.runtime.log.AvalonLogChute
+Mon Jul 06 00:06:24 BST 2009  [debug] Using logger class org.apache.velocity.runtime.log.AvalonLogChute
+Mon Jul 06 00:06:24 BST 2009  [debug] Default ResourceManager initializing. (class org.apache.velocity.runtime.resource.ResourceManagerImpl)
+Mon Jul 06 00:06:24 BST 2009  [debug] ResourceLoader instantiated: org.apache.velocity.runtime.resource.loader.FileResourceLoader
+Mon Jul 06 00:06:24 BST 2009  [trace] FileResourceLoader : initialization starting.
+Mon Jul 06 00:06:24 BST 2009  [debug] Do unicode file recognition:  false
+Mon Jul 06 00:06:24 BST 2009   [info] FileResourceLoader : adding path '.'
+Mon Jul 06 00:06:24 BST 2009  [trace] FileResourceLoader : initialization complete.
+Mon Jul 06 00:06:24 BST 2009  [debug] ResourceCache: initialized (class org.apache.velocity.runtime.resource.ResourceCacheImpl)
+Mon Jul 06 00:06:24 BST 2009  [trace] Default ResourceManager initialization complete.
+Mon Jul 06 00:06:24 BST 2009  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+Mon Jul 06 00:06:24 BST 2009  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+Mon Jul 06 00:06:24 BST 2009  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+Mon Jul 06 00:06:24 BST 2009  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Include
+Mon Jul 06 00:06:24 BST 2009  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+Mon Jul 06 00:06:24 BST 2009  [debug] Created '20' parsers.
+Mon Jul 06 00:06:24 BST 2009  [trace] Velocimacro : initialization starting.
+Mon Jul 06 00:06:24 BST 2009  [debug] Velocimacro : "velocimacro.library" is not set.  Trying default library: VM_global_library.vm
+Mon Jul 06 00:06:24 BST 2009  [debug] Velocimacro : Default library not found.
+Mon Jul 06 00:06:24 BST 2009  [debug] Velocimacro : allowInline = true : VMs can be defined inline in templates
+Mon Jul 06 00:06:24 BST 2009  [debug] Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+Mon Jul 06 00:06:24 BST 2009  [debug] Velocimacro : allowInlineLocal = false : VMs defined inline will be global in scope if allowed.
+Mon Jul 06 00:06:24 BST 2009  [debug] Velocimacro : autoload off : VM system will not automatically reload global library macros
+Mon Jul 06 00:06:24 BST 2009  [trace] Velocimacro : Velocimacro : initialization complete.
+Mon Jul 06 00:06:24 BST 2009  [trace] RuntimeInstance successfully initialized.
